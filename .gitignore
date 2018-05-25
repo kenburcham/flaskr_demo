@@ -1,0 +1,4 @@
+.pytest_cache
+flaskr.egg-info
+instance
+flaskr/__pycache__
